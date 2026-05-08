@@ -1,0 +1,124 @@
+{
+  "key_value_pairs": {
+    "Title": "Centrifugal Pump Housing",
+    "Date": "24/02/2015",
+    "Competition": "",
+    "Material": "Steel, Mild",
+    "Mass": "0.954 kg",
+    "Sheet Size": "A3",
+    "Sheet Number": "3 of 13",
+    "Country": "Scotland/UK",
+    "Scale": "Scale to ISO 5455",
+    "Drawing Category": "Mechanical Engineering: CAD Regional Competition",
+    "Tolerances": "Tolerances unless otherwise stated to ISO 2768 mk",
+    "Casting Tolerances": "Casting tolerances to ISO 8062",
+    "Dimensions Unit": "All dimensions in mm"
+  },
+  "tables": [
+    {
+      "title": "Title Block",
+      "headers": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Competition",
+          ""
+        ],
+        [
+          "Title",
+          "Centrifugal Pump Housing"
+        ],
+        [
+          "Date",
+          "24/02/2015"
+        ],
+        [
+          "Material",
+          "Steel, Mild"
+        ],
+        [
+          "Mass",
+          "0.954 kg"
+        ],
+        [
+          "Sheet Size",
+          "A3"
+        ],
+        [
+          "Sheet Number",
+          "3 of 13"
+        ],
+        [
+          "Country",
+          "Scotland/UK"
+        ],
+        [
+          "Scale",
+          "Scale to ISO 5455"
+        ],
+        [
+          "Category",
+          "Mechanical Engineering: CAD Regional Competition"
+        ],
+        [
+          "Tolerances",
+          "Tolerances unless otherwise stated to ISO 2768 mk"
+        ],
+        [
+          "Casting Tolerances",
+          "Casting tolerances to ISO 8062"
+        ],
+        [
+          "Dimensions",
+          "All dimensions in mm"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Ø6.75 ▽20.54",
+    "M8x1.25 - 6H ▽16.00",
+    "∨ Ø8.00 X 90.0°",
+    "M20x2.5 - 6H",
+    "Ø70.00",
+    "SECTION E-E",
+    "Ø95.00",
+    "(47.50)",
+    "6X Ø5.00 ▽16.00",
+    "M6x1 - 6H ▽12.00",
+    "EQUISPACED ON 80.00 PCD",
+    "4X 2.00 X 45.0°",
+    "2X Ø5.00 ▽10.00",
+    "M6x1 - 6H",
+    "R1.00 TYP.",
+    "DETAIL F",
+    "R4.00",
+    "Ø28.00",
+    "0.50 X 45.0°",
+    "0.50 X 45.0° ALL ROUND",
+    "Dimension: 19.00",
+    "Dimension: 38.00",
+    "Dimension: 0.50",
+    "Dimension: 59.50",
+    "Dimension: 10.00",
+    "Dimension: 33.00",
+    "Dimension: 66.00",
+    "Dimension: 42.00",
+    "Dimension: 42.00",
+    "Dimension: 8.00",
+    "Dimension: 8.00",
+    "Dimension: 11.00 (bottom right)",
+    "Dimension: 11.00 (top view)",
+    "Dimension: 7.00",
+    "Dimension: 22.00",
+    "Dimension: 18.00",
+    "Dimension: 6.00",
+    "Dimension: 2.70",
+    "Dimension: 4.40",
+    "Dimension: 3.00",
+    "Dimension: 6.20",
+    "Dimension: 22.00 (detail F)"
+  ]
+}

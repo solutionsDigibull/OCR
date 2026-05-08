@@ -1,0 +1,29 @@
+Category,Field,Value
+Title Block,Part Type,90 Degree Bent Pipe / Hose Elbow Fitting
+Title Block,Drawing Number,2289
+Title Block,Date,14/10/20
+Title Block,Status,SAMPLE TO BE APPROVED
+Title Block,Revision Entries,3-4 revision rows visible
+Title Block,Scale,Illegible at current resolution
+Views,View 1,Top View (Orthographic) - flange face with bolt holes
+Views,View 2,Front/Side View - 90 degree bend profile with flanged ends
+Views,View 3,Bottom Detail View - flange face with 4-hole bolt pattern
+Views,Reference Photo,Bottom-right corner - actual physical part (black rubber/plastic elbow)
+Dimensions,Overall Width (Top View),~80.5
+Dimensions,Flange Diameter (Top),~57.5 +/- 0.2
+Dimensions,Inner Diameter Reference,~24.0
+Dimensions,Bolt Hole Pattern,4-hole pattern
+Dimensions,Bolt Hole Size,~Ø6
+Dimensions,Wall/Flange Thickness,~6.25
+Dimensions,Bend Radius,Visible but partially illegible
+Handwritten Annotations,Upper Mid Drawing,"INKANIST T / INK AND S T (material or process note)"
+Handwritten Annotations,Right Side Upper,C 0.5
+Handwritten Annotations,Right Side Mid,13.1
+Handwritten Annotations,Right Side Mid,(2.4 / 2.7 / 3.1) - tolerance stack
+Handwritten Annotations,Bottom Right,77 / 19.5 / 19.5
+Handwritten Annotations,Bottom Right,19.5 x 2 = 39
+Handwritten Annotations,Bottom Right,4.37 - 5.5
+Handwritten Annotations,Bottom Right,"22 / 2.5 / 3.5 / 2.2 - dimension corrections"
+Revision Block,Columns,Rev Level / Description / Date / Approved By
+Revision Block,Entry Count,3-4 entries visible
+General Notes,Content,Material specs / tolerance standards / surface finish requirements (text too small to fully resolve)

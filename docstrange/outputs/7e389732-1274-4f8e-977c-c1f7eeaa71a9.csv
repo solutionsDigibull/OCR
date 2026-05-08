@@ -1,0 +1,51 @@
+﻿Section,Field,Value,Col_No.,Col_Name,Col_Qty
+Document Fields,Figure 1.7,Schematic assembly drawing,,,
+Document Fields,Figure 1.8,Machine shop drawing,,,
+Document Fields,Page,8,,,
+Document Fields,Chapter,Machine Drawing,,,
+Document Fields,Overall Diameter,φ140,,,
+Document Fields,Bore Diameter with tolerance,"φ70+0.00/-0.10, φ100+0.00",,,
+Document Fields,Feature diameter with tolerance,φ41+0.10/-0.00,,,
+Document Fields,Total length,85,,,
+Document Fields,Stepped length 1,5,,,
+Document Fields,Stepped length 2,20,,,
+Document Fields,Neck specification,6×6 NECK,,,
+Document Fields,Thread specification,M76,,,
+Document Fields,Cored hole diameter,DIA 38,,,
+Document Fields,Bolt holes,"4 HOLES DIA12, DIA16 C'BORE",,,
+Document Fields,Bolt hole depth,10 DEEP EQUI-SP,,,
+Document Fields,Fillet radius,R5,,,
+Document Fields,Datum A,A,,,
+Document Fields,Datum B,B,,,
+Document Fields,Position tolerance,φ0.1,,,
+Document Fields,Position tolerance datums,A B,,,
+Document Fields,Surface finish symbol (general),"∪(,W)",,,
+Document Fields,Surface finish symbol (casting),Casting size,,,
+Document Fields,Surface finish symbol (machined),△△,,,
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,10,Shaft,1
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,9,Change-over lever,2
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,8,Disk clutch,2
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,7,Worm wheel,2
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,6,Worm,2
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,5,Shoe brake,2
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,4,Herringbone gear,3
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,3,Bearing,6
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,2,Elastic coupling,2
+Parts List / Bill of Materials for Schematic Assembly Drawing (Fig. 1.7),,,1,Electric motor,2
+Notes & Annotations,Note,6×6 NECK,,,
+Notes & Annotations,Note,"CORED HOLE, DIA 38",,,
+Notes & Annotations,Note,Casting size (indicated by leader line on drawing),,,
+Notes & Annotations,Note,"4 HOLES DIA12, DIA16 C'BORE",,,
+Notes & Annotations,Note,10 DEEP EQUI-SP,,,
+Notes & Annotations,Note,M76,,,
+Notes & Annotations,Note,R5,,,
+Notes & Annotations,Note,Position tolerance φ0.1 referenced to datums A and B,,,
+Notes & Annotations,Note,φ140 is the overall outer diameter,,,
+Notes & Annotations,Note,φ100 with tolerance +0.00 upper,,,
+Notes & Annotations,Note,φ70 with tolerance +0.00/-0.10,,,
+Notes & Annotations,Note,φ41 with tolerance +0.10/-0.00,,,
+Notes & Annotations,Note,Dimension 85 is total length shown,,,
+Notes & Annotations,Note,Dimension 5 and 20 are step lengths,,,
+Notes & Annotations,Note,"Surface finish ∪(,W) applied to general surfaces",,,
+Notes & Annotations,Note,Double triangle surface finish symbol on bore surface,,,
+Notes & Annotations,Note,Single triangle surface finish on other surfaces,,,

@@ -1,0 +1,123 @@
+openapi: 3.0.0
+
+info:
+  title: PDF Table Extractor
+  description: >
+    Extracts tables and text from PDF files using OCR (Tesseract + OpenCV).
+    Detects table regions automatically; falls back to full-text extraction when
+    no tables are found. Returns a JSON summary of processed files or a
+    downloadable Excel (.xlsx) file containing the extracted data.
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:8000
+    description: >
+      Local FastAPI server. Replace with your deployed host URL before importing
+      into Dify (e.g. https://your-domain.com).
+
+paths:
+
+  /process:
+    post:
+      operationId: processPDFs
+      summary: Extract tables or text from one or more PDF files
+      description: >
+        Accepts a list of absolute PDF file paths accessible on the server.
+        For each PDF, converts pages to images, detects table regions, and
+        runs OCR to extract structured rows. If no tables are detected, falls
+        back to full-text OCR. Saves all results to an Excel workbook and
+        returns either a JSON summary (default) or the Excel file directly.
+      parameters:
+        - name: format
+          in: query
+          required: false
+          description: >
+            Response format. Use "json" (default) to receive a JSON summary of
+            processed file names. Use "xlsx" to receive the Excel file as a
+            binary download.
+          schema:
+            type: string
+            enum:
+              - json
+              - xlsx
+            default: json
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/FileRequest'
+      responses:
+        '200':
+          description: >
+            Successful extraction. Returns JSON when format=json, or an Excel
+            binary when format=xlsx.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ProcessResponse'
+            application/vnd.openxmlformats-officedocument.spreadsheetml.sheet:
+              schema:
+                type: string
+                format: binary
+                description: Excel workbook containing extracted table/text data.
+
+  /:
+    get:
+      operationId: healthCheck
+      summary: Health check
+      description: Returns a simple status message confirming the server is running.
+      responses:
+        '200':
+          description: Server is running.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: running
+
+components:
+  schemas:
+
+    FileRequest:
+      type: object
+      required:
+        - file_paths
+      properties:
+        file_paths:
+          type: array
+          description: >
+            List of absolute file paths to PDF files on the server. Each path
+            must be accessible by the FastAPI process (e.g.
+            "C:/documents/report.pdf").
+          items:
+            type: string
+            description: Absolute path to a PDF file.
+          example:
+            - "C:/documents/invoice.pdf"
+            - "C:/documents/report.pdf"
+
+    ProcessResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          description: '"success" on successful extraction, "error" if no data was extracted.'
+          example: success
+        files:
+          type: array
+          description: >
+            List of file base names (without extension) that were successfully
+            processed and written to the Excel workbook.
+          items:
+            type: string
+          example:
+            - invoice
+            - report
+        message:
+          type: string
+          description: Error message. Only present when status is "error".
+          example: No data extracted

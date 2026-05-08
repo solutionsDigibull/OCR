@@ -1,0 +1,192 @@
+{
+  "key_value_pairs": {
+    "Drawing Number": "2789",
+    "Sheet": "14 10 38 38",
+    "Scale": "6:1",
+    "Title": "ADAPTER ITC TO AIR FILTER HOSE",
+    "Part Number": "2789 14 10 38 38",
+    "Material": "2.2 L 6608",
+    "Weight": "0.172",
+    "Revision": "NEW RELEASE",
+    "Company": "TATA MOTORS LIMITED",
+    "Standard": "ST AC-41 SPRD 010",
+    "Drawing Type": "H05",
+    "Rev": "AV",
+    "Dimensions": "78 X 119 X 54",
+    "Tool No": "T006 - G02",
+    "Scale Note": "Do not scale the drawing",
+    "Sample Status": "SAMPLE TO BE APPROVED",
+    "Section": "SECTION X-X",
+    "Drawing Reference": "2789 14 10 38 38"
+  },
+  "tables": [
+    {
+      "title": "Test Requirements",
+      "headers": [
+        "SR. NO.",
+        "TEST",
+        "PROCEDURE/STANDARD",
+        "NUMBER SAMPLES",
+        "FREQUENCY",
+        "ACCEPTANCE CRITERIA"
+      ],
+      "rows": [
+        [
+          "1",
+          "LEAKAGE TEST",
+          "SHOULD BE LEAKAGE FREE AS PER 9601 D PRESSURE 3.65 SUI ALONG WITH REASSEMBLY",
+          "100%",
+          "100%",
+          "NO LEAKAGE"
+        ],
+        [
+          "2",
+          "VIBRATION TEST",
+          "AS PER 9601 D",
+          "2",
+          "EVERY BATCH",
+          "LEAKAGE SHOULD BE FORM AFTER TESTING MILLIPORE 5.0 FILTER PAPER"
+        ],
+        [
+          "3",
+          "CLEANLINESS",
+          "REFER DRAWING 2789 0000 00 02 FOR PROCEDURE",
+          "1",
+          "EVERY YEARS",
+          "NO CHECKS ON MILLIPORE 5.0 FILTER PAPER"
+        ]
+      ]
+    },
+    {
+      "title": "General Tolerances Table",
+      "headers": [
+        "Dimension Range",
+        "Tolerance Class f",
+        "Tolerance Class m",
+        "Tolerance Class c",
+        "Tolerance Class v"
+      ],
+      "rows": [
+        [
+          "0.5 to 3",
+          "±0.05",
+          "±0.1",
+          "±0.2",
+          "±0.5"
+        ],
+        [
+          "3 to 6",
+          "±0.05",
+          "±0.1",
+          "±0.3",
+          "±0.5"
+        ],
+        [
+          "6 to 30",
+          "±0.1",
+          "±0.2",
+          "±0.5",
+          "±1.0"
+        ],
+        [
+          "30 to 120",
+          "±0.15",
+          "±0.3",
+          "±0.8",
+          "±1.5"
+        ],
+        [
+          "120 to 400",
+          "±0.2",
+          "±0.5",
+          "±1.2",
+          "±2.5"
+        ],
+        [
+          "400 to 1000",
+          "±0.3",
+          "±0.8",
+          "±2.0",
+          "±4.0"
+        ],
+        [
+          "1000 to 2000",
+          "±0.5",
+          "±1.2",
+          "±3.0",
+          "±6.0"
+        ],
+        [
+          "2000 to 4000",
+          "",
+          "±2.0",
+          "±4.0",
+          "±8.0"
+        ]
+      ]
+    },
+    {
+      "title": "Classification of Characteristics",
+      "headers": [
+        "Symbol",
+        "Class",
+        "Description"
+      ],
+      "rows": [
+        [
+          "▲",
+          "Safety Critical",
+          ""
+        ],
+        [
+          "●",
+          "Performance Critical",
+          ""
+        ],
+        [
+          "■",
+          "Appearance Critical",
+          ""
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "SHARP EDGES TO BE REMOVED",
+    "DRAFT ANGLE IS 1 DEG. IF NOT STATED OTHERWISE IN THE DRAWING ARE FOR MACHINE MATERIAL IN TRANSIT CONDITION STORAGE. TO RELEVANT DIMENSIONS PROVIDE IN THE DRAWING ARE TO INSIDE SURFACES",
+    "TOLERANCES ON OVERALL CASTING DIMENSION TO BE AS PER IS 2062 J415 JO SHOULD BE ±3%",
+    "THROUGH PRESSURE CLEANING TO BE DONE",
+    "EACH NEW SUPPLY LOT TO GO THRU APPROVAL CYCLE IS AS SUPPLIED 1 FREE FROM DEFECTS AND INSIDE MACHINING",
+    "DIMENSIONS IN BRACKET ARE FOR MACHINING SURFACES",
+    "TYP 2X CUTTER BRG RECESS",
+    "SHARP EDGES TO BE DEBARRED",
+    "14-6-14 3, 13-2",
+    "G1-S, G1-4, 19-4-16",
+    "22-19-15-16",
+    "43-4, 43-5",
+    "45-8, 46-9, 39-5",
+    "h-33",
+    "TYPE S10 II TS 14625",
+    "56-5, 59-5, 65h",
+    "13, 28, 28-7, 31-1",
+    "12-6",
+    "27, 13282-8.7, 31.1",
+    "NY NJY NJZ",
+    "3D VIEW",
+    "Ø 60.5±0.2",
+    "Ø7.140±0.2",
+    "Ø2.8±0.2",
+    "Ø1.5±0.3",
+    "39.9±0.2",
+    "70.1±0.2",
+    "97.3±0.2",
+    "33.6±0.2",
+    "50.3±0.2",
+    "15.5±0.2",
+    "84±0.2",
+    "103.5",
+    "86±0.2",
+    "31.5",
+    "95"
+  ]
+}

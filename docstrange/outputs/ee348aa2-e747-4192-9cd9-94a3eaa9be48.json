@@ -1,0 +1,75 @@
+{
+  "key_value_pairs": {
+    "Figure": "Fig. 1.32",
+    "Title": "Screw lack (assembly)",
+    "Page": "29"
+  },
+  "tables": [
+    {
+      "title": "Parts List - Screw Jack Assembly",
+      "headers": [
+        "No.",
+        "Name of part",
+        "Material",
+        "Notes",
+        "Q"
+      ],
+      "rows": [
+        [
+          "7",
+          "Set screw",
+          "M.S.",
+          "",
+          "1"
+        ],
+        [
+          "6",
+          "Washer",
+          "M.S.",
+          "",
+          "1"
+        ],
+        [
+          "5",
+          "Screw rod",
+          "M.S.",
+          "",
+          "1"
+        ],
+        [
+          "4",
+          "Tommy bar",
+          "M.S.",
+          "",
+          "1"
+        ],
+        [
+          "3",
+          "Body",
+          "C.I",
+          "",
+          "1"
+        ],
+        [
+          "2",
+          "Nut",
+          "G.M",
+          "",
+          "1"
+        ],
+        [
+          "1",
+          "Cup",
+          "C.S",
+          "",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Fig. 1.32 Screw lack (assembly).",
+    "Assembly drawing of a screw jack showing 7 numbered components including cup, nut, body, tommy bar, screw rod, washer, and set screw",
+    "Materials used: M.S. (Mild Steel), C.I (Cast Iron), G.M (Gun Metal), C.S (Carbon Steel)"
+  ]
+}

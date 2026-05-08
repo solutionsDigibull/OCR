@@ -1,0 +1,104 @@
+{
+  "key_value_pairs": {
+    "Title": "Centrifugal Pump Housing",
+    "Date": "24/02/2015",
+    "Competition": "",
+    "Material": "Steel, Mild",
+    "Mass": "0.954 kg",
+    "Sheet Size": "A3",
+    "Sheet Number": "3 of 13",
+    "Country": "Scotland/UK",
+    "Scale": "ISO 5455",
+    "Tolerances": "Unless otherwise stated to ISO 2768 mk",
+    "Casting Tolerances": "ISO 8062",
+    "Competition Category": "Mechanical Engineering: CAD Regional Competition",
+    "All Dimensions": "in mm",
+    "Drawing Section": "SECTION E-E",
+    "Detail": "DETAIL F"
+  },
+  "tables": [
+    {
+      "title": "Title Block",
+      "headers": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date",
+          "24/02/2015"
+        ],
+        [
+          "Title",
+          "Centrifugal Pump Housing"
+        ],
+        [
+          "Material",
+          "Steel, Mild"
+        ],
+        [
+          "Mass",
+          "0.954 kg"
+        ],
+        [
+          "Sheet Size",
+          "A3"
+        ],
+        [
+          "Sheet Number",
+          "3 of 13"
+        ],
+        [
+          "Scale",
+          "ISO 5455"
+        ],
+        [
+          "Country",
+          "Scotland/UK"
+        ],
+        [
+          "Competition",
+          "Mechanical Engineering: CAD Regional Competition"
+        ],
+        [
+          "Tolerances",
+          "Unless otherwise stated to ISO 2768 mk"
+        ],
+        [
+          "Casting Tolerances",
+          "ISO 8062"
+        ],
+        [
+          "All dimensions",
+          "in mm"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Ø6.75 ▽20.54",
+    "M8x1.25 - 6H ▽16.00",
+    "Ø8.00 X 90.0°",
+    "M20x2.5 - 6H",
+    "Ø70.00",
+    "Ø95.00",
+    "(47.50)",
+    "6X Ø5.00 ▽16.00",
+    "M6x1 - 6H ▽12.00",
+    "EQUISPACED ON 80.00 PCD",
+    "4X 2.00 X 45.0°",
+    "2X Ø5.00 ▽10.00",
+    "M6x1 - 6H",
+    "R1.00 TYP.",
+    "R4.00",
+    "Ø28.00",
+    "0.50 X 45.0°",
+    "0.50 X 45.0° ALL ROUND",
+    "SECTION E-E",
+    "DETAIL F",
+    "Dimensions: 19.00, 11.00, 38.00, 0.50, 59.50, 10.00, 33.00, 66.00, 7.00, 22.00, 18.00, 6.00, 2.70, 4.40, 3.00, 6.20, 22.00, 42.00, 42.00, 8.00, 8.00, 11.00",
+    "Tolerances unless otherwise stated to ISO 2768 mk",
+    "Casting tolerances to ISO 8062",
+    "All dimensions in mm"
+  ]
+}

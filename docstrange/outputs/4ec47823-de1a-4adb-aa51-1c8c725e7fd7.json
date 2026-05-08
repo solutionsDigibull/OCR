@@ -1,0 +1,120 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "19.2",
+    "Figure Title": "Marine engine connecting rod end",
+    "Page Number": "358",
+    "Chapter/Section": "Machine Drawing",
+    "Overall Width Dimension": "270",
+    "Left Segment 1": "36",
+    "Left Segment 2": "36",
+    "Left Segment 3": "50",
+    "Left Segment 4": "52",
+    "Center Segment": "12",
+    "Right Segment 4": "52",
+    "Right Segment 3": "50",
+    "Right Segment 2": "36",
+    "Right Segment 1": "36",
+    "Bottom Dimension 1": "16",
+    "Bottom Dimension 2": "12",
+    "Bottom Dimension 3": "10",
+    "Bottom Dimension 4": "12",
+    "Bottom Dimension 5": "16",
+    "Rod End Outer Diameter": "φ190",
+    "Rod End Inner Diameter": "φ80",
+    "Rod End Shaft Diameter": "φ40",
+    "Bearing Radius 1": "R56",
+    "Bearing Radius 2": "R76",
+    "Radius Right Top": "R142",
+    "Radius Right Bottom": "R130",
+    "Dimension 48": "φ48",
+    "Dimension 46": "46",
+    "Dimension 72": "φ72",
+    "Dimension M10": "M10",
+    "Dimension 12 (top right)": "12",
+    "Dimension 8": "8",
+    "Dimension 15": "15",
+    "Dimension 9 (left)": "9",
+    "Dimension 9 (right)": "9",
+    "Dimension 10": "10",
+    "Dimension 11": "11",
+    "Bottom View Length": "162",
+    "Bottom View Dim 1": "80",
+    "Bottom View Dim 2": "80",
+    "Bottom View Dim 3": "10",
+    "Bottom View Dim 4": "18",
+    "Bottom View Dim 5": "70",
+    "Bottom View Height 1": "90",
+    "Bottom View Height 2": "118"
+  },
+  "tables": [
+    {
+      "title": "Parts list",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty."
+      ],
+      "rows": [
+        [
+          "1",
+          "Rod end",
+          "FS",
+          "1"
+        ],
+        [
+          "2",
+          "Cover end",
+          "FS",
+          "1"
+        ],
+        [
+          "3",
+          "Bearing brass",
+          "GM",
+          "2"
+        ],
+        [
+          "4",
+          "Bolt M54 × 360",
+          "MS",
+          "2"
+        ],
+        [
+          "5",
+          "Nut, M54",
+          "MCS",
+          "2"
+        ],
+        [
+          "6",
+          "Cotter",
+          "MCS",
+          "2"
+        ],
+        [
+          "7",
+          "Snug",
+          "MS",
+          "2"
+        ],
+        [
+          "8",
+          "Leather packing",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Fig. 19.2 Marine engine connecting rod end",
+    "Page 358 - Machine Drawing",
+    "R56 appears twice in the bearing area",
+    "M10 bolt size indicated on right side of assembly",
+    "Bolt specification: M54 × 360",
+    "Bearing brass material is Gun Metal (GM)",
+    "Rod end and Cover end material is Forged Steel (FS)",
+    "Cotter and Nut material is Mild Cast Steel (MCS)"
+  ]
+}

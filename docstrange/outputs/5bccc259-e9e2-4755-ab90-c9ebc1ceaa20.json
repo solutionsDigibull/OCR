@@ -1,0 +1,78 @@
+{
+  "key_value_pairs": {
+    "Figure": "Fig. 1.3 Assembly drawing.",
+    "Section": "1.2.3.1 Design Assembly Drawing",
+    "Section 2": "1.2.3.2 Detailed Assembly Drawing",
+    "Page": "5",
+    "Cross-section label": "X - X",
+    "Keyway dimensions": "20 x 8",
+    "Thread designation": "M30",
+    "Thread quantity": "2",
+    "Dimension - overall length": "150",
+    "Dimension - segment 1": "48",
+    "Dimension - segment 2": "8",
+    "Dimension - segment 3": "40",
+    "Dimension - segment 4": "8",
+    "Dimension - flange width": "85",
+    "Dimension - step 1": "35",
+    "Dimension - step 2": "45",
+    "Dimension - step 3": "25",
+    "Diameter - phi 34": "34",
+    "Diameter - phi 40": "40",
+    "Diameter - phi 60": "60",
+    "Diameter - phi 80": "80",
+    "Diameter - phi 120": "120",
+    "Diameter - phi 64": "64",
+    "Dimension - 60": "60",
+    "Dimension - 80": "80",
+    "Dimension - 12": "12"
+  },
+  "tables": [
+    {
+      "title": "Parts List",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Material",
+        "Qty"
+      ],
+      "rows": [
+        [
+          "1",
+          "Crank",
+          "Forged Steel",
+          "1"
+        ],
+        [
+          "2",
+          "Crank Pin",
+          "45C",
+          "1"
+        ],
+        [
+          "3",
+          "Nut",
+          "MS",
+          "1"
+        ],
+        [
+          "4",
+          "Washer",
+          "MS",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "KEY WAY, 20 x 8",
+    "X - X (cross-section view label)",
+    "When a machine is designed, an assembly drawing or a design layout is first drawn to clearly visualise the performance, shape and clearances of various parts comprising the machine.",
+    "It is usually made for simple machines, comprising of a relatively smaller number of simple parts. All the dimensions and information necessary for the construction of such parts and for the assembly of the",
+    "Part 1 - Crank is made of Forged Steel",
+    "Part 2 - Crank Pin is made of 45C",
+    "Parts 3 and 4 (Nut and Washer) are made of MS (Mild Steel)",
+    "phi 80 circle visible in right-side view with M30 thread (qty 2)",
+    "phi 120 and phi 64 circles visible in front view"
+  ]
+}

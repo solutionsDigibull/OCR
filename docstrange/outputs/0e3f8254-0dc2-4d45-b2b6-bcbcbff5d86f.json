@@ -1,0 +1,140 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "19.7",
+    "Figure Title": "Split-sheave eccentric",
+    "R270": "R270",
+    "R220": "R220",
+    "R180": "R180",
+    "R130": "R130",
+    "R100": "R100",
+    "R40": "R40",
+    "R30": "R30",
+    "R24": "R24",
+    "R230": "R230",
+    "R270_2": "R270",
+    "R185": "R185",
+    "Dimension_550": "550",
+    "Dimension_88": "88",
+    "Dimension_100_base": "100",
+    "Dimension_45deg": "45°",
+    "Dimension_15": "15",
+    "Dimension_36": "36",
+    "Dimension_24": "24",
+    "Dimension_100_top_left": "100",
+    "Dimension_100_top_right": "100",
+    "Dimension_12": "12",
+    "Dimension_6": "6",
+    "Dimension_41": "41",
+    "Dimension_80": "80",
+    "Dimension_phi47": "φ47",
+    "Dimension_phi45": "φ45",
+    "Dimension_phi60": "φ60",
+    "Dimension_M14": "M14",
+    "Dimension_25": "25",
+    "Dimension_5": "5",
+    "Dimension_50": "50",
+    "Dimension_30_inner": "30",
+    "Dimension_200": "200",
+    "Dimension_16": "16",
+    "Dimension_30_outer": "30",
+    "Dimension_75_bottom": "75",
+    "Dimension_20": "20",
+    "Dimension_26": "26",
+    "Dimension_38": "38",
+    "Dimension_phi75": "φ75",
+    "Dimension_150": "150",
+    "Dimension_230": "230"
+  },
+  "tables": [
+    {
+      "title": "Parts List",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty.",
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty."
+      ],
+      "rows": [
+        [
+          "1",
+          "Sheave piece",
+          "CS",
+          "1",
+          "7",
+          "Strap",
+          "CI",
+          "1"
+        ],
+        [
+          "2",
+          "Sheave piece",
+          "CS",
+          "1",
+          "8",
+          "Shim",
+          "Brass",
+          "2"
+        ],
+        [
+          "3",
+          "Bolt M30 × 135",
+          "MS",
+          "2",
+          "9",
+          "Bolt M30 × 250",
+          "MS",
+          "2"
+        ],
+        [
+          "4",
+          "Nut M30",
+          "MS",
+          "6",
+          "10",
+          "Lock nut M30",
+          "MS",
+          "2"
+        ],
+        [
+          "5",
+          "Split pin φ6 × 50",
+          "MS",
+          "6",
+          "11",
+          "Stud M30",
+          "MS",
+          "2"
+        ],
+        [
+          "6",
+          "Strap",
+          "CI",
+          "1",
+          "12",
+          "Washer",
+          "MS",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Fig. 19.7 Split-sheave eccentric",
+    "Part No. 3: Bolt M30 × 135",
+    "Part No. 9: Bolt M30 × 250",
+    "Part No. 5: Split pin φ6 × 50",
+    "M14 thread visible on upper right assembly",
+    "φ60 dimension on upper assembly",
+    "φ47 dimension on left side of main view",
+    "φ45 dimension near center top",
+    "φ75 dimension on right side assembly",
+    "R185 radius shown in section view",
+    "Multiple radii shown: R24, R30, R40, R100, R130, R180, R220, R230, R270",
+    "Left side view shows 45° angle, 550 height, 88 width, 100 base, 36 and 15 dimensions",
+    "Assembly shows split sheave with straps, bolts, nuts, shims and lock nuts"
+  ]
+}

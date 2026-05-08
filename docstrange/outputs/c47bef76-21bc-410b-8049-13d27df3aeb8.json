@@ -1,0 +1,89 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "19.8",
+    "Figure Title": "Single tool post",
+    "Page Number": "368",
+    "Chapter/Section": "Machine Drawing",
+    "Square dimension 1": "15",
+    "Square dimension 2": "76",
+    "Diameter phi32": "32",
+    "Diameter phi36": "36",
+    "Diameter phi50": "50",
+    "Radius R145": "145",
+    "Dimension 120": "120",
+    "Dimension 16": "16",
+    "Diameter phi100": "100",
+    "Diameter phi28": "28",
+    "Thread M22": "M22",
+    "Dimension 15 (top)": "15",
+    "Dimension 6": "6",
+    "Dimension 96": "96",
+    "Dimension 12": "12",
+    "Dimension 8": "8",
+    "Diameter phi15": "15",
+    "Dimension 18": "18",
+    "Radius R15": "15",
+    "Dimension 13": "13",
+    "Dimension 12 (bottom)": "12",
+    "Diameter phi51": "51",
+    "Diameter phi62": "62",
+    "Dimension 106": "106",
+    "Dimension 146": "146",
+    "Dimension 9": "9",
+    "Undercut Width": "5",
+    "Undercut Depth": "2",
+    "Surface Treatment": "SERRATED"
+  },
+  "tables": [
+    {
+      "title": "Parts List",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty."
+      ],
+      "rows": [
+        [
+          "1",
+          "Body",
+          "MS",
+          "1"
+        ],
+        [
+          "2",
+          "Clamp screw",
+          "MCS",
+          "1"
+        ],
+        [
+          "3",
+          "Wedge",
+          "CI",
+          "1"
+        ],
+        [
+          "4",
+          "Ring",
+          "MS",
+          "1"
+        ],
+        [
+          "5",
+          "Square block",
+          "MS",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "U/C WIDE 5 DEEP 2",
+    "SERRATED",
+    "Part 1 - Body labeled in front view",
+    "Part 2 - Clamp screw at top",
+    "Part 3 - Wedge at bottom left area",
+    "Part 4 - Ring (serrated)",
+    "Part 5 - Square block at base"
+  ]
+}

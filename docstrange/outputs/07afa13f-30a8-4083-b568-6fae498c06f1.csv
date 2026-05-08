@@ -1,0 +1,44 @@
+﻿Section,Field,Value,Col_Item Number,Col_Component Name
+Document Fields,Figure Number,1.5,,
+Document Fields,Figure Title,Assembly drawing for instruction manuals,,
+Document Fields,Brand,BHARATH,,
+Document Fields,Page Number,8,,
+Document Fields,Speed change lever,1,,
+Document Fields,Depth adjusting knob,2,,
+Document Fields,Mech. Feed engagement lever,3,,
+Document Fields,Hand free lever,4,,
+Document Fields,Feed change knob,5,,
+Document Fields,Switch for tapping,6,,
+Document Fields,Gear shifting lever,7,,
+Document Fields,Main switch,8,,
+Document Fields,Lamp switch,9,,
+Document Fields,Selector switch,10,,
+Document Fields,Forward switch,11,,
+Document Fields,Pilot lamp,12,,
+Document Fields,Feed disengagement push button,13,,
+Document Fields,Start push button,14,,
+Document Fields,Emergency stop,15,,
+Document Fields,Elevating handle,16,,
+Document Fields,Clamping handle,17,,
+Document Fields,Supply inlet,18,,
+Parts List - Assembly Drawing Components,,,1,Speed change lever
+Parts List - Assembly Drawing Components,,,2,Depth adjusting knob
+Parts List - Assembly Drawing Components,,,3,Mech. Feed engagement lever
+Parts List - Assembly Drawing Components,,,4,Hand free lever
+Parts List - Assembly Drawing Components,,,5,Feed change knob
+Parts List - Assembly Drawing Components,,,6,Switch for tapping
+Parts List - Assembly Drawing Components,,,7,Gear shifting lever
+Parts List - Assembly Drawing Components,,,8,Main switch
+Parts List - Assembly Drawing Components,,,9,Lamp switch
+Parts List - Assembly Drawing Components,,,10,Selector switch
+Parts List - Assembly Drawing Components,,,11,Forward switch
+Parts List - Assembly Drawing Components,,,12,Pilot lamp
+Parts List - Assembly Drawing Components,,,13,Feed disengagement push button
+Parts List - Assembly Drawing Components,,,14,Start push button
+Parts List - Assembly Drawing Components,,,15,Emergency stop
+Parts List - Assembly Drawing Components,,,16,Elevating handle
+Parts List - Assembly Drawing Components,,,17,Clamping handle
+Parts List - Assembly Drawing Components,,,18,Supply inlet
+Notes & Annotations,Note,Fig. 1.5 Assembly drawing for instruction manuals.,,
+Notes & Annotations,Note,Two views of the BHARATH drill press machine are shown - front/isometric view (left) and front elevation view (right),,
+Notes & Annotations,Note,All numbered components are labeled with callout lines pointing to their respective locations on the machine drawings,,

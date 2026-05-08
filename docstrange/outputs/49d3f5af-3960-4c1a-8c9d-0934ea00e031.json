@@ -1,0 +1,124 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "19.2",
+    "Figure Title": "Marine engine connecting rod end",
+    "Page Number": "358",
+    "Chapter/Section": "Machine Drawing",
+    "Overall Width Dimension": "270",
+    "Left Section Dimension 1": "36",
+    "Left Section Dimension 2": "36",
+    "Left Section Dimension 3": "50",
+    "Center Left Dimension": "52",
+    "Center Right Dimension": "52",
+    "Right Section Dimension 1": "50",
+    "Right Section Dimension 2": "36",
+    "Right Section Dimension 3": "36",
+    "Small Center Dimension 1": "12",
+    "Small Center Dimension 2": "10",
+    "Small Center Dimension 3": "12",
+    "Bottom Reference 1": "16",
+    "Bottom Reference 2": "16",
+    "Total Length Bottom View": "162",
+    "Bottom View Left Width": "80",
+    "Bottom View Right Width": "80",
+    "Bottom View Small Center": "10",
+    "Bottom View Height 1": "70",
+    "Bottom View Height 2": "18",
+    "Bottom View Right Height 1": "90",
+    "Bottom View Right Height 2": "118",
+    "Diameter 1": "φ40",
+    "Diameter 2": "φ80",
+    "Diameter 3": "φ190",
+    "Diameter 4": "φ48",
+    "Diameter 5": "φ48",
+    "Diameter 6": "φ72",
+    "Radius 1": "R56",
+    "Radius 2": "R56",
+    "Radius 3": "R76",
+    "Radius 4": "R142",
+    "Radius 5": "R130",
+    "Thread Size": "M10",
+    "Dimension 46": "46",
+    "Dimension 12": "12",
+    "Dimension 15": "15",
+    "Dimension 9 (top)": "9",
+    "Dimension 9 (left)": "9",
+    "Dimension 11": "11",
+    "Dimension 10": "10"
+  },
+  "tables": [
+    {
+      "title": "Parts list",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty."
+      ],
+      "rows": [
+        [
+          "1",
+          "Rod end",
+          "FS",
+          "1"
+        ],
+        [
+          "2",
+          "Cover end",
+          "FS",
+          "1"
+        ],
+        [
+          "3",
+          "Bearing brass",
+          "GM",
+          "2"
+        ],
+        [
+          "4",
+          "Bolt M54 × 360",
+          "MS",
+          "2"
+        ],
+        [
+          "5",
+          "Nut, M54",
+          "MCS",
+          "2"
+        ],
+        [
+          "6",
+          "Cotter",
+          "MCS",
+          "2"
+        ],
+        [
+          "7",
+          "Snug",
+          "MS",
+          "2"
+        ],
+        [
+          "8",
+          "Leather packing",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Fig. 19.2 Marine engine connecting rod end",
+    "Page 358 - Machine Drawing",
+    "Part 1: Rod end - Material FS - Qty 1",
+    "Part 2: Cover end - Material FS - Qty 1",
+    "Part 3: Bearing brass - Material GM - Qty 2",
+    "Part 4: Bolt M54 × 360 - Material MS - Qty 2",
+    "Part 5: Nut, M54 - Material MCS - Qty 2",
+    "Part 6: Cotter - Material MCS - Qty 2",
+    "Part 7: Snug - Material MS - Qty 2",
+    "Part 8: Leather packing",
+    "Assembly shows front view (sectional) and side view of marine engine connecting rod end",
+    "Bottom view shows plan of the connecting rod end assembly"
+  ]
+}

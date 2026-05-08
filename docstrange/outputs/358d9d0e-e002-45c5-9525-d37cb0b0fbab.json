@@ -1,0 +1,85 @@
+{
+  "key_value_pairs": {
+    "Drawing Title": "Nylon 6-6 Plastic Hex Standoff",
+    "Part Name": "NYLON PART",
+    "Drawing Number": "92319A670",
+    "REV": "X",
+    "SIZE": "A3",
+    "SCALE": "1:1",
+    "WEIGHT (kg)": "XXX",
+    "SHEET": "1/1",
+    "DRAWN BY": "Prateek",
+    "DRAWN DATE": "2/15/2025",
+    "CHECKED BY": "Ravishankar N S",
+    "CHECKED DATE": "XXX",
+    "DESIGNED BY": "MC MASTER",
+    "DESIGNED DATE": "XXX",
+    "Thread Size": "6-32 Thread size",
+    "Overall Length": "31.75 ±0.25",
+    "Hex Width": "6.35 ±0.25",
+    "Thread Engagement Left": "9.53",
+    "Thread Engagement Right": "9.53"
+  },
+  "tables": [
+    {
+      "title": "Part Specifications Table",
+      "headers": [
+        "Item No.",
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "1",
+          "Part Description",
+          "Standoff, female,1/4Hex,6-32 Thread size,Nylon"
+        ],
+        [
+          "2",
+          "Material",
+          "Nylon"
+        ],
+        [
+          "3",
+          "Cleaning requirements",
+          "Parts shall be clean as defined in Lam specification 202-065546-001"
+        ],
+        [
+          "4",
+          "ROHS Compliance",
+          "Required"
+        ],
+        [
+          "5",
+          "Packaging Requirements",
+          "Parts may be bulk packaged"
+        ],
+        [
+          "6",
+          "",
+          ""
+        ],
+        [
+          "7",
+          "",
+          ""
+        ],
+        [
+          "8",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Note:-",
+    "6-32 Thread size",
+    "Overall length: 31.75 ±0.25 mm",
+    "Hex width across flats: 6.35 ±0.25 mm",
+    "Thread engagement depth on each end: 9.53 mm",
+    "Parts shall be clean as defined in Lam specification 202-065546-001",
+    "ROHS Compliance Required",
+    "Parts may be bulk packaged"
+  ]
+}

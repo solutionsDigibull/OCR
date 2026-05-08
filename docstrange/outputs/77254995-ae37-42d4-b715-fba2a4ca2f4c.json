@@ -1,0 +1,291 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "19.6",
+    "Figure Title": "Automobile gear box (contd.)",
+    "Drawing Label": "(a)",
+    "Page Number": "364",
+    "Book Section": "Machine Drawing",
+    "KEY WAY": "6×4",
+    "TEETH ON DOG (upper)": "24 × 50 × 58",
+    "SPLINES (upper)": "24×50×58",
+    "TEETH ON DOG (label D)": "26T",
+    "TEETH ON DOG 30×58×66": "33T, 39T",
+    "SPLINES (right upper)": "30×58×66",
+    "SPLINES (lower)": "6×28×20",
+    "SPLINES (lower label)": "6 × 28 × 20",
+    "Gear A": "21T",
+    "Gear B": "34T",
+    "Gear C": "29T",
+    "Gear D": "26T",
+    "Gear E": "22T",
+    "Gear F": "33T",
+    "Gear G": "16T",
+    "Gear H": "39T",
+    "Gear 14": "14T",
+    "Gear 8": "8T",
+    "Gear 1 (right)": "21T",
+    "3NOs AT": "120°",
+    "Overall dimension 1": "145",
+    "Overall dimension 2": "186",
+    "Dimension 68.75": "68.75"
+  },
+  "tables": [
+    {
+      "title": "Part Numbers and Callouts",
+      "headers": [
+        "Part Number",
+        "Location"
+      ],
+      "rows": [
+        [
+          "1",
+          "Right side, upper and lower"
+        ],
+        [
+          "2",
+          "Right side, middle"
+        ],
+        [
+          "3",
+          "Left side"
+        ],
+        [
+          "4",
+          "Left side, lower"
+        ],
+        [
+          "5",
+          "Right side, lower"
+        ],
+        [
+          "6",
+          "Right upper"
+        ],
+        [
+          "7",
+          "Middle"
+        ],
+        [
+          "8",
+          "Upper right"
+        ],
+        [
+          "9",
+          "Left lower middle"
+        ],
+        [
+          "10",
+          "Left lower, right lower"
+        ],
+        [
+          "11",
+          "Right upper"
+        ],
+        [
+          "12",
+          "Right middle"
+        ],
+        [
+          "13",
+          "Upper left"
+        ],
+        [
+          "14",
+          "Upper right"
+        ],
+        [
+          "15",
+          "Right middle lower"
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "headers": [
+        "Dimension Label",
+        "Value"
+      ],
+      "rows": [
+        [
+          "φ97.5",
+          "97.5 mm diameter"
+        ],
+        [
+          "φ85",
+          "85 mm diameter"
+        ],
+        [
+          "φ82.5",
+          "82.5 mm diameter"
+        ],
+        [
+          "φ80",
+          "80 mm diameter"
+        ],
+        [
+          "φ73",
+          "73 mm diameter"
+        ],
+        [
+          "φ72.5",
+          "72.5 mm diameter"
+        ],
+        [
+          "φ65",
+          "65 mm diameter"
+        ],
+        [
+          "φ65 (second)",
+          "65 mm diameter"
+        ],
+        [
+          "φ62",
+          "62 mm diameter"
+        ],
+        [
+          "φ55",
+          "55 mm diameter"
+        ],
+        [
+          "φ52.5 (left)",
+          "52.5 mm diameter"
+        ],
+        [
+          "φ52.5 (right)",
+          "52.5 mm diameter"
+        ],
+        [
+          "φ42",
+          "42 mm diameter"
+        ],
+        [
+          "φ42 (second)",
+          "42 mm diameter"
+        ],
+        [
+          "φ40",
+          "40 mm diameter"
+        ],
+        [
+          "φ28 (left)",
+          "28 mm diameter"
+        ],
+        [
+          "φ28 (right)",
+          "28 mm diameter"
+        ],
+        [
+          "φ25 (multiple)",
+          "25 mm diameter"
+        ],
+        [
+          "φ25 (right)",
+          "25 mm diameter"
+        ],
+        [
+          "φ20",
+          "20 mm diameter"
+        ],
+        [
+          "φ18",
+          "18 mm diameter"
+        ],
+        [
+          "φ85 (lower)",
+          "85 mm diameter"
+        ],
+        [
+          "20",
+          "20 mm"
+        ],
+        [
+          "20 (multiple)",
+          "20 mm"
+        ],
+        [
+          "18",
+          "18 mm"
+        ],
+        [
+          "18 (multiple)",
+          "18 mm"
+        ],
+        [
+          "25",
+          "25 mm"
+        ],
+        [
+          "15",
+          "15 mm"
+        ],
+        [
+          "15 (multiple)",
+          "15 mm"
+        ],
+        [
+          "17",
+          "17 mm"
+        ],
+        [
+          "35",
+          "35 mm"
+        ],
+        [
+          "45",
+          "45 mm"
+        ],
+        [
+          "50",
+          "50 mm"
+        ],
+        [
+          "10",
+          "10 mm"
+        ],
+        [
+          "10 (right)",
+          "10 mm"
+        ],
+        [
+          "2.5",
+          "2.5 mm"
+        ],
+        [
+          "3",
+          "3 mm"
+        ],
+        [
+          "5",
+          "5 mm"
+        ],
+        [
+          "12",
+          "12 mm"
+        ],
+        [
+          "186",
+          "186 mm total"
+        ],
+        [
+          "145",
+          "145 mm"
+        ],
+        [
+          "68.75",
+          "68.75 mm"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "KEY WAY, 6×4",
+    "TEETH ON DOG, 24 × 50 × 58",
+    "SPLINES 24×50×58",
+    "TEETH ON DOG 30×58×66",
+    "SPLINES 30×58×66",
+    "SPLINES, 6×28×20",
+    "SPLINES, 6 × 28 × 20",
+    "3NOs AT 120°",
+    "Fig. 19.6 Automobile gear box (contd.)"
+  ]
+}

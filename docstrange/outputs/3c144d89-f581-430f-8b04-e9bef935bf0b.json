@@ -1,0 +1,79 @@
+{
+  "key_value_pairs": {
+    "Figure": "1.3",
+    "Figure Title": "Assembly drawing",
+    "Section": "1.2.3.1 Design Assembly Drawing",
+    "Section 2": "1.2.3.2 Detailed Assembly Drawing",
+    "Drawing Section Label": "X - X",
+    "Page Number": "5",
+    "Keyway Dimensions": "20 x 8",
+    "Thread Designation": "M30",
+    "Thread Quantity": "2",
+    "Overall Length": "150",
+    "Dimension 85": "85",
+    "Dimension 48": "48",
+    "Dimension 8 (left)": "8",
+    "Dimension 40": "40",
+    "Dimension 8 (right)": "8",
+    "Dimension 35": "35",
+    "Dimension 45": "45",
+    "Dimension 25": "25",
+    "Diameter 34": "φ34",
+    "Diameter 40": "φ40",
+    "Diameter 60": "φ60",
+    "Diameter 80": "φ80",
+    "Diameter 120": "φ120",
+    "Diameter 64": "φ64",
+    "Dimension 60": "60",
+    "Dimension 80": "80",
+    "Dimension 12": "12"
+  },
+  "tables": [
+    {
+      "title": "Parts List",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Material",
+        "Qty"
+      ],
+      "rows": [
+        [
+          "1",
+          "Crank",
+          "Forged Steel",
+          "1"
+        ],
+        [
+          "2",
+          "Crank Pin",
+          "45C",
+          "1"
+        ],
+        [
+          "3",
+          "Nut",
+          "MS",
+          "1"
+        ],
+        [
+          "4",
+          "Washer",
+          "MS",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "KEY WAY, 20 x 8",
+    "X - X section view indicated",
+    "1.2.3.1 Design Assembly Drawing: When a machine is designed, an assembly drawing or a design layout is first drawn to clearly visualise the performance, shape and clearances of various parts comprising the machine.",
+    "1.2.3.2 Detailed Assembly Drawing: It is usually made for simple machines, comprising of a relatively smaller number of simple parts. All the dimensions and information necessary for the construction of such parts and for the assembly of the",
+    "Part 1 - Crank (Forged Steel)",
+    "Part 2 - Crank Pin (45C)",
+    "Part 3 - Nut (MS)",
+    "Part 4 - Washer (MS)",
+    "Arrow indicators X and X mark the cross-section cut plane"
+  ]
+}

@@ -1,0 +1,72 @@
+﻿Section,Field,Value,Col_Part No.,Col_Name,Col_Matl.,Col_Qty.,Col_Dimension Label,Col_Value (mm)
+Document Fields,Figure Number,19.5,,,,,,
+Document Fields,Figure Title,Steam engine crosshead,,,,,,
+Document Fields,Page Number,361,,,,,,
+Document Fields,Section,Part Drawings,,,,,,
+Document Fields,Oil Hole,DIA 6 CSK,,,,,,
+Parts list,,,1,Crosshead body,WI,1,,
+Parts list,,,2,Shoe,CI,2,,
+Parts list,,,3,Bearing,GM,1,,
+Parts list,,,4,Wedge block,MS,1,,
+Parts list,,,5,Bolt and nut,MCS,1,,
+Parts list,,,6,Piston,FS,1,,
+Parts list,,,7,Cotter,MCS,1,,
+Dimensions - Front View,,,,,,,Overall width (top),228
+Dimensions - Front View,,,,,,,Top flange detail,24
+Dimensions - Front View,,,,,,,Left section width,30
+Dimensions - Front View,,,,,,,Middle section width,42
+Dimensions - Front View,,,,,,,Height left section,114
+Dimensions - Front View,,,,,,,Height overall right,210
+Dimensions - Front View,,,,,,,Height mid-right,132
+Dimensions - Front View,,,,,,,Height inner right,78
+Dimensions - Front View,,,,,,,Radius top right,R8
+Dimensions - Front View,,,,,,,Radius inner,R40
+Dimensions - Front View,,,,,,,Bore diameter large,φ54
+Dimensions - Front View,,,,,,,Bore diameter pin,φ21
+Dimensions - Front View,,,,,,,Bore diameter bearing,φ18
+Dimensions - Front View,,,,,,,Thread designation,M21
+Dimensions - Front View,,,,,,,Dimension 50 (horizontal),50
+Dimensions - Front View,,,,,,,Dimension 50 (vertical),50
+Dimensions - Front View,,,,,,,Dimension 168,168
+Dimensions - Front View,,,,,,,Dimension 24,24
+Dimensions - Front View,,,,,,,Dimension 21 (top),21
+Dimensions - Front View,,,,,,,Dimension 21 (bottom),21
+Dimensions - Front View,,,,,,,Dimension 18,18
+Dimensions - Front View,,,,,,,Dimension 30 inner,30
+Dimensions - Front View,,,,,,,Dimension 3,3
+Dimensions - Front View,,,,,,,Dimension 32,32
+Dimensions - Front View,,,,,,,Dimension 36,36
+Dimensions - Front View,,,,,,,Dimension 12 slot,12
+Dimensions - Front View,,,,,,,Dimension 30 slot,30
+Dimensions - Front View,,,,,,,Dimension 40,40
+Dimensions - Front View,,,,,,,Dimension 66,66
+Dimensions - Front View,,,,,,,Dimension 78 (left base),78
+Dimensions - Front View,,,,,,,Dimension 60 (right base),60
+Dimensions - Front View,,,,,,,Dimension 12 (right flange top),12
+Dimensions - Front View,,,,,,,Dimension 12 (right flange bottom),12
+Dimensions - Front View,,,,,,,Dimension φ6,φ6
+Dimensions - Front View,,,,,,,Dimension 9,9
+Dimensions - Front View,,,,,,,Dimension 3 (left bottom),3
+Dimensions - Front View,,,,,,,Dimension 204,204
+Dimensions - Side/Bottom View,,,,,,,Overall length,144
+Dimensions - Side/Bottom View,,,,,,,Left section length,78
+Dimensions - Side/Bottom View,,,,,,,Inner bore length,60
+Dimensions - Side/Bottom View,,,,,,,Overall height,102
+Dimensions - Side/Bottom View,,,,,,,Inner height,78
+Dimensions - Side/Bottom View,,,,,,,Diameter piston,φ54
+Dimensions - Side/Bottom View,,,,,,,Diameter step 1,φ45
+Dimensions - Side/Bottom View,,,,,,,Diameter step 2,φ78
+Dimensions - Side/Bottom View,,,,,,,Diameter inner bore,φ42
+Dimensions - Side/Bottom View,,,,,,,Radius inner,R38
+Dimensions - Side/Bottom View,,,,,,,Shoulder length,12
+Dimensions - Side/Bottom View,,,,,,,Total width reference,104
+Notes & Annotations,Note,"OIL HOLE, DIA 6 CSK",,,,,,
+Notes & Annotations,Note,Oil hole indicated in front view,,,,,,
+Notes & Annotations,Note,Part 1 - Crosshead body material: WI (Wrought Iron),,,,,,
+Notes & Annotations,Note,"Part 2 - Shoe material: CI (Cast Iron), Quantity: 2",,,,,,
+Notes & Annotations,Note,Part 3 - Bearing material: GM (Gun Metal),,,,,,
+Notes & Annotations,Note,Part 4 - Wedge block material: MS (Mild Steel),,,,,,
+Notes & Annotations,Note,Part 5 - Bolt and nut material: MCS (Medium Carbon Steel),,,,,,
+Notes & Annotations,Note,Part 6 - Piston material: FS (Forged Steel),,,,,,
+Notes & Annotations,Note,Part 7 - Cotter material: MCS (Medium Carbon Steel),,,,,,
+Notes & Annotations,Note,Fig. 19.5 Steam engine crosshead,,,,,,

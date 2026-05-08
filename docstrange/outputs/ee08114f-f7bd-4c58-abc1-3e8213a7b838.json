@@ -1,0 +1,109 @@
+{
+  "key_value_pairs": {
+    "Figure Title": "Petrol engine connecting rod",
+    "Overall Length": "195",
+    "Big End Outer Diameter": "Ø44",
+    "Big End Inner Diameter (Cap)": "Ø38",
+    "Big End Bore": "Ø35",
+    "Big End Bearing Outer": "Ø38",
+    "Big End Bearing Inner": "Ø35",
+    "Big End Width": "38",
+    "Big End Bearing Width": "30",
+    "Rod Big End Radius R1": "R40",
+    "Rod Fillet Radius R2": "R62",
+    "Rod Body Radius R3": "R40",
+    "Small End Outer Diameter": "Ø30",
+    "Small End Inner Diameter": "Ø22",
+    "Small End Bore": "Ø19",
+    "Small End Bush Outer": "Ø22",
+    "Small End Bush Inner": "Ø19",
+    "Small End Width": "28",
+    "Small End Radius": "R75",
+    "Small End Fillet Radius": "R25",
+    "Small End Bearing Radius": "R18",
+    "Rod Big End Flange Dimensions 1": "Ø35",
+    "Rod Big End Flange Dimensions 2": "Ø38",
+    "Rod Big End Flange Dimensions 3": "Ø44",
+    "Small End Dimensions 1": "Ø19",
+    "Small End Dimensions 2": "Ø22",
+    "Small End Dimensions 3": "Ø26",
+    "Rod Body Width at Section X-X": "25",
+    "Rod Body Height at Section X-X": "20",
+    "Section X-X Flange Width": "12",
+    "Section X-X Flange Thickness": "3",
+    "Bolt Hole Thread": "M6",
+    "Bearing Brass Radius Big End Inner 1": "R25",
+    "Bearing Brass Radius Big End Inner 2": "R25",
+    "Bearing Brass Radius Big End Inner 3": "R20",
+    "Dimension 9": "9",
+    "Dimension 17": "17",
+    "Dimension 12 (bolt spacing)": "12",
+    "Dimension 36": "36",
+    "Dimension 3 (flange)": "3",
+    "Dimension 62 (big end height)": "62",
+    "Dimension 28 (small end)": "28",
+    "Drill Size": "DIA4",
+    "Drill Type": "DRILL CSK",
+    "Section Label": "X-X"
+  },
+  "tables": [
+    {
+      "title": "Parts List",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty."
+      ],
+      "rows": [
+        [
+          "1",
+          "Rod",
+          "FS",
+          "1"
+        ],
+        [
+          "2",
+          "Cap",
+          "FS",
+          "1"
+        ],
+        [
+          "3",
+          "Bearing brass",
+          "GM",
+          "2"
+        ],
+        [
+          "4",
+          "Bearing bush",
+          "P Bronze",
+          "1"
+        ],
+        [
+          "5",
+          "Bolt",
+          "MCS",
+          "2"
+        ],
+        [
+          "6",
+          "Nut",
+          "MCS",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Fig. Petrol engine connecting rod",
+    "Section X-X shown in front view",
+    "DIA4, DRILL CSK annotation on small end bearing bush",
+    "M6 bolt hole for cap bolts",
+    "Overall length dimension: 195",
+    "Bearing brass (Part 3) quantity: 2, material: GM (Gun Metal)",
+    "Bearing bush (Part 4) material: P Bronze (Phosphor Bronze)",
+    "Rod and Cap material: FS (Forged Steel)",
+    "Bolts and Nuts material: MCS (Mild Carbon Steel)"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "key_value_pairs": {
+    "Competitor": "",
+    "Date": "24/02/2015",
+    "Title": "Centrifugal Pump Housing",
+    "Material": "Steel, Mild",
+    "Mass": "0.954 kg",
+    "Event": "Mechanical Engineering: CAD Regional Competition",
+    "Sheet Size": "A3",
+    "Sheet Number": "3 of 13",
+    "Country": "Scotland/UK",
+    "Scale": "Scale to ISO 5455",
+    "Tolerances": "Tolerances unless otherwise stated to ISO 2768 mk",
+    "Casting Tolerances": "Casting tolerances to ISO 8062",
+    "Units": "All dimensions in mm",
+    "Drawing Standard": "General: ISO/EN/DIN/BSI/AS2"
+  },
+  "tables": [
+    {
+      "title": "Title Block",
+      "headers": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date",
+          "24/02/2015"
+        ],
+        [
+          "Title",
+          "Centrifugal Pump Housing"
+        ],
+        [
+          "Material",
+          "Steel, Mild"
+        ],
+        [
+          "Mass",
+          "0.954 kg"
+        ],
+        [
+          "Event",
+          "Mechanical Engineering: CAD Regional Competition"
+        ],
+        [
+          "Sheet Size",
+          "A3"
+        ],
+        [
+          "Sheet Number",
+          "3 of 13"
+        ],
+        [
+          "Country",
+          "Scotland/UK"
+        ],
+        [
+          "Scale",
+          "Scale to ISO 5455"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Ø6.75 ▽20.54",
+    "M8x1.25 - 6H ▽16.00",
+    "∨ Ø8.00 X 90.0°",
+    "19.00",
+    "11.00",
+    "6.00",
+    "2.70",
+    "4.40",
+    "3.00",
+    "6.20",
+    "7.00",
+    "22.00",
+    "18.00",
+    "M20x2.5 - 6H",
+    "Ø70.00",
+    "SECTION E-E",
+    "38.00",
+    "0.50",
+    "E (reference arrow)",
+    "Ø95.00",
+    "(47.50)",
+    "59.50",
+    "6X Ø5.00 ▽16.00",
+    "M6x1 - 6H ▽12.00",
+    "EQUISPACED ON 80.00 PCD",
+    "10.00",
+    "33.00",
+    "66.00",
+    "E (reference arrow bottom)",
+    "4X 2.00 X 45.0°",
+    "2X Ø5.00 ▽10.00",
+    "M6x1 - 6H",
+    "8.00",
+    "42.00",
+    "42.00",
+    "8.00",
+    "11.00",
+    "R1.00 TYP.",
+    "DETAIL F",
+    "R4.00",
+    "Ø28.00",
+    "0.50 X 45.0°",
+    "22.00",
+    "0.50 X 45.0° ALL ROUND",
+    "F (detail callout circle with arrow)",
+    "Tolerances unless otherwise stated to ISO 2768 mk",
+    "Casting tolerances to ISO 8062",
+    "All dimensions in mm",
+    "General: ISO/EN/DIN/BSI/AS2"
+  ]
+}

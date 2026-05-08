@@ -1,0 +1,118 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "19.4",
+    "Title": "Spark plug",
+    "Page Number": "360",
+    "Chapter": "Machine Drawing"
+  },
+  "tables": [
+    {
+      "title": "Parts list",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty."
+      ],
+      "rows": [
+        [
+          "1",
+          "Shell",
+          "MCS",
+          "1"
+        ],
+        [
+          "2",
+          "Insulator",
+          "Porcelain",
+          "1"
+        ],
+        [
+          "3",
+          "Central electrode",
+          "Nickel",
+          "1"
+        ],
+        [
+          "4",
+          "Nut",
+          "MCS",
+          "1"
+        ],
+        [
+          "5",
+          "Ground electrode",
+          "Nickel",
+          "1"
+        ],
+        [
+          "6",
+          "Terminal",
+          "Brass",
+          "1"
+        ],
+        [
+          "7",
+          "Sealing gasket",
+          "Asbestos",
+          "1"
+        ],
+        [
+          "8",
+          "Sealing gasket",
+          "Asbestos",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "φ10 - outer diameter at top terminal area",
+    "φ8 - diameter at terminal",
+    "M5 - thread at terminal",
+    "φ8 - diameter",
+    "φ10 - diameter",
+    "φ15 - diameter",
+    "φ12 - diameter",
+    "φ22 - diameter",
+    "φ24 - diameter",
+    "φ21 - diameter",
+    "φ18 - diameter",
+    "φ33 - diameter at hex section",
+    "φ20 - diameter",
+    "M36 - thread on shell",
+    "φ3 - central electrode tip diameter",
+    "φ5 - diameter",
+    "φ10 - diameter",
+    "φ16 - diameter",
+    "φ26 - diameter",
+    "M30 - thread diameter",
+    "φ43 - outer flange diameter",
+    "Dimension 12.5 - length",
+    "Dimension 7.5 - length",
+    "Dimension 18 - length",
+    "Dimension 8 - length",
+    "Dimension 112 - total length",
+    "Dimension 88 - length of shell body",
+    "Dimension 27 - length",
+    "Dimension 18 - length",
+    "Dimension 13 - length",
+    "Dimension 55 - length",
+    "Dimension 18 - length at bottom",
+    "Dimension 24 - length",
+    "Dimension 24 - dimension",
+    "Dimension 6 - length",
+    "Dimension 1.5 - length",
+    "Dimension 10 - length",
+    "Dimension 1.5 - length",
+    "Dimension 5 - length",
+    "Dimension 5 - length",
+    "Dimension 4 - length",
+    "Dimension 6 - chamfer/step",
+    "Dimension 6 - chamfer/step",
+    "Dimension 3 - dimension",
+    "Dimension 1.5 - dimension",
+    "3×45° - chamfer specification",
+    "14 WIDE 4 - flat/hex width specification"
+  ]
+}

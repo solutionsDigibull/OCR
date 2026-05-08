@@ -1,0 +1,14 @@
+﻿Section,Field,Value,Col_No.,Col_Name of part,Col_Material,Col_Notes,Col_Q
+Document Fields,Figure Number,1.32,,,,,
+Document Fields,Figure Title,Screw lack (assembly),,,,,
+Document Fields,Page Number,29,,,,,
+Parts List - Screw Jack Assembly,,,7,Set screw,M.S.,,1
+Parts List - Screw Jack Assembly,,,6,Washer,M.S.,,1
+Parts List - Screw Jack Assembly,,,5,Screw rod,M.S.,,1
+Parts List - Screw Jack Assembly,,,4,Tommy bar,M.S.,,1
+Parts List - Screw Jack Assembly,,,3,Body,C.I,,1
+Parts List - Screw Jack Assembly,,,2,Nut,G.M,,1
+Parts List - Screw Jack Assembly,,,1,Cup,C.S,,1
+Notes & Annotations,Note,Fig. 1.32 Screw lack (assembly).,,,,,
+Notes & Annotations,Note,"Assembly drawing of a screw jack showing components including cup, nut, body, tommy bar, screw rod, washer, and set screw",,,,,
+Notes & Annotations,Note,"Materials used: M.S. (Mild Steel), C.I (Cast Iron), G.M (Gun Metal), C.S (Carbon Steel)",,,,,

@@ -1,0 +1,114 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "1.5",
+    "Figure Title": "Assembly drawing for instruction manuals",
+    "Brand": "BHARATH",
+    "Page Number": "8",
+    "Speed change lever": "1",
+    "Depth adjusting knob": "2",
+    "Mech. Feed engagement lever": "3",
+    "Hand free lever": "4",
+    "Feed change knob": "5",
+    "Switch for tapping": "6",
+    "Gear shifting lever": "7",
+    "Main switch": "8",
+    "Lamp switch": "9",
+    "Selector switch": "10",
+    "Forward switch": "11",
+    "Pilot lamp": "12",
+    "Feed disengagement push button": "13",
+    "Start push button": "14",
+    "Emergency stop": "15",
+    "Elevating handle": "16",
+    "Clamping handle": "17",
+    "Supply inlet": "18"
+  },
+  "tables": [
+    {
+      "title": "Parts List - Assembly Drawing Components",
+      "headers": [
+        "Item Number",
+        "Component Name"
+      ],
+      "rows": [
+        [
+          "1",
+          "Speed change lever"
+        ],
+        [
+          "2",
+          "Depth adjusting knob"
+        ],
+        [
+          "3",
+          "Mech. Feed engagement lever"
+        ],
+        [
+          "4",
+          "Hand free lever"
+        ],
+        [
+          "5",
+          "Feed change knob"
+        ],
+        [
+          "6",
+          "Switch for tapping"
+        ],
+        [
+          "7",
+          "Gear shifting lever"
+        ],
+        [
+          "8",
+          "Main switch"
+        ],
+        [
+          "9",
+          "Lamp switch"
+        ],
+        [
+          "10",
+          "Selector switch"
+        ],
+        [
+          "11",
+          "Forward switch"
+        ],
+        [
+          "12",
+          "Pilot lamp"
+        ],
+        [
+          "13",
+          "Feed disengagement push button"
+        ],
+        [
+          "14",
+          "Start push button"
+        ],
+        [
+          "15",
+          "Emergency stop"
+        ],
+        [
+          "16",
+          "Elevating handle"
+        ],
+        [
+          "17",
+          "Clamping handle"
+        ],
+        [
+          "18",
+          "Supply inlet"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Fig. 1.5 Assembly drawing for instruction manuals.",
+    "Two views of the BHARATH drill press machine are shown - front/isometric view (left) and front elevation view (right)",
+    "All numbered components are labeled with callout lines pointing to their respective locations on the machine drawings"
+  ]
+}

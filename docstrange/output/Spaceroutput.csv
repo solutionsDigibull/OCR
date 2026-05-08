@@ -1,0 +1,22 @@
+﻿Section,Field,Value,Col_Field,Col_Value
+Document Fields,Drawing Title,SYNTHETIC DRAWING 4: STANDARD MACHINED COMPONENT – ISOLATION SPACER,,
+Document Fields,Part Name,ISOLATION SPACER,,
+Document Fields,Part No,74A90221-301,,
+Document Fields,Rev,A,,
+Document Fields,Material,CORR RESIST STEEL,,
+Document Fields,Finish,PASSIVATED,,
+Document Fields,Applicable Standard,SAE AS50881,,
+Document Fields,Outer Diameter,Ø0.750,,
+Document Fields,Inner Diameter (Thru),Ø0.375 THRU,,
+Document Fields,Length,1.250,,
+Document Fields,Section A-A Inner Diameter,Ø0.375,,
+Document Fields,Section A-A Outer Diameter,Ø0.750,,
+Title Block,,,Material,CORR RESIST STEEL
+Title Block,,,Finish,PASSIVATED
+Title Block,,,Part Name,ISOLATION SPACER
+Title Block,,,Applicable Standard,SAE AS50881
+Title Block,,,Part No.,74A90221-301
+Title Block,,,Rev.,A
+Notes & Annotations,Note,ALL DIMENSIONS ARE IN INCHES.,,
+Notes & Annotations,Note,"UNLESS OTHERWISE SPECIFIED: X.XX = ±.01, X.XXX = ±.005",,
+Notes & Annotations,Note,BREAK ALL SHARP EDGES .005-.015.,,

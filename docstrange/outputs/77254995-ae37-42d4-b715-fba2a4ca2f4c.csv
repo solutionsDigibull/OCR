@@ -1,0 +1,95 @@
+﻿Section,Field,Value,Col_Part Number,Col_Location,Col_Dimension Label,Col_Value
+Document Fields,Figure Number,19.6,,,,
+Document Fields,Figure Title,Automobile gear box (contd.),,,,
+Document Fields,Drawing Label,(a),,,,
+Document Fields,Page Number,364,,,,
+Document Fields,Book Section,Machine Drawing,,,,
+Document Fields,KEY WAY,6×4,,,,
+Document Fields,TEETH ON DOG (upper),24 × 50 × 58,,,,
+Document Fields,SPLINES (upper),24×50×58,,,,
+Document Fields,TEETH ON DOG (label D),26T,,,,
+Document Fields,TEETH ON DOG 30×58×66,"33T, 39T",,,,
+Document Fields,SPLINES (right upper),30×58×66,,,,
+Document Fields,SPLINES (lower),6×28×20,,,,
+Document Fields,SPLINES (lower label),6 × 28 × 20,,,,
+Document Fields,Gear A,21T,,,,
+Document Fields,Gear B,34T,,,,
+Document Fields,Gear C,29T,,,,
+Document Fields,Gear D,26T,,,,
+Document Fields,Gear E,22T,,,,
+Document Fields,Gear F,33T,,,,
+Document Fields,Gear G,16T,,,,
+Document Fields,Gear H,39T,,,,
+Document Fields,Gear 14,14T,,,,
+Document Fields,Gear 8,8T,,,,
+Document Fields,Gear 1 (right),21T,,,,
+Document Fields,3NOs AT,120°,,,,
+Document Fields,Overall dimension 1,145,,,,
+Document Fields,Overall dimension 2,186,,,,
+Document Fields,Dimension 68.75,68.75,,,,
+Part Numbers and Callouts,,,1,"Right side, upper and lower",,
+Part Numbers and Callouts,,,2,"Right side, middle",,
+Part Numbers and Callouts,,,3,Left side,,
+Part Numbers and Callouts,,,4,"Left side, lower",,
+Part Numbers and Callouts,,,5,"Right side, lower",,
+Part Numbers and Callouts,,,6,Right upper,,
+Part Numbers and Callouts,,,7,Middle,,
+Part Numbers and Callouts,,,8,Upper right,,
+Part Numbers and Callouts,,,9,Left lower middle,,
+Part Numbers and Callouts,,,10,"Left lower, right lower",,
+Part Numbers and Callouts,,,11,Right upper,,
+Part Numbers and Callouts,,,12,Right middle,,
+Part Numbers and Callouts,,,13,Upper left,,
+Part Numbers and Callouts,,,14,Upper right,,
+Part Numbers and Callouts,,,15,Right middle lower,,
+Dimensions,,,,,φ97.5,97.5 mm diameter
+Dimensions,,,,,φ85,85 mm diameter
+Dimensions,,,,,φ82.5,82.5 mm diameter
+Dimensions,,,,,φ80,80 mm diameter
+Dimensions,,,,,φ73,73 mm diameter
+Dimensions,,,,,φ72.5,72.5 mm diameter
+Dimensions,,,,,φ65,65 mm diameter
+Dimensions,,,,,φ65 (second),65 mm diameter
+Dimensions,,,,,φ62,62 mm diameter
+Dimensions,,,,,φ55,55 mm diameter
+Dimensions,,,,,φ52.5 (left),52.5 mm diameter
+Dimensions,,,,,φ52.5 (right),52.5 mm diameter
+Dimensions,,,,,φ42,42 mm diameter
+Dimensions,,,,,φ42 (second),42 mm diameter
+Dimensions,,,,,φ40,40 mm diameter
+Dimensions,,,,,φ28 (left),28 mm diameter
+Dimensions,,,,,φ28 (right),28 mm diameter
+Dimensions,,,,,φ25 (multiple),25 mm diameter
+Dimensions,,,,,φ25 (right),25 mm diameter
+Dimensions,,,,,φ20,20 mm diameter
+Dimensions,,,,,φ18,18 mm diameter
+Dimensions,,,,,φ85 (lower),85 mm diameter
+Dimensions,,,,,20,20 mm
+Dimensions,,,,,20 (multiple),20 mm
+Dimensions,,,,,18,18 mm
+Dimensions,,,,,18 (multiple),18 mm
+Dimensions,,,,,25,25 mm
+Dimensions,,,,,15,15 mm
+Dimensions,,,,,15 (multiple),15 mm
+Dimensions,,,,,17,17 mm
+Dimensions,,,,,35,35 mm
+Dimensions,,,,,45,45 mm
+Dimensions,,,,,50,50 mm
+Dimensions,,,,,10,10 mm
+Dimensions,,,,,10 (right),10 mm
+Dimensions,,,,,2.5,2.5 mm
+Dimensions,,,,,3,3 mm
+Dimensions,,,,,5,5 mm
+Dimensions,,,,,12,12 mm
+Dimensions,,,,,186,186 mm total
+Dimensions,,,,,145,145 mm
+Dimensions,,,,,68.75,68.75 mm
+Notes & Annotations,Note,"KEY WAY, 6×4",,,,
+Notes & Annotations,Note,"TEETH ON DOG, 24 × 50 × 58",,,,
+Notes & Annotations,Note,SPLINES 24×50×58,,,,
+Notes & Annotations,Note,TEETH ON DOG 30×58×66,,,,
+Notes & Annotations,Note,SPLINES 30×58×66,,,,
+Notes & Annotations,Note,"SPLINES, 6×28×20",,,,
+Notes & Annotations,Note,"SPLINES, 6 × 28 × 20",,,,
+Notes & Annotations,Note,3NOs AT 120°,,,,
+Notes & Annotations,Note,Fig. 19.6 Automobile gear box (contd.),,,,

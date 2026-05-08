@@ -1,0 +1,46 @@
+﻿Section,Field,Value,Col_Component Name,Col_Item Number
+Document Fields,Page Number,6,,
+Document Fields,Document Title,Machine Drawing,,
+Document Fields,Figure Number,Fig. 1.5,,
+Document Fields,Figure Caption,Assembly drawing for instruction manuals,,
+Document Fields,Machine Brand,BHARATH,,
+Document Fields,Speed change lever,1,,
+Document Fields,Depth adjusting knob,2,,
+Document Fields,Mech. feed engagement lever,3,,
+Document Fields,Hand feed lever,4,,
+Document Fields,Feed change knob,5,,
+Document Fields,Switch for tapping,6,,
+Document Fields,Gear shifting lever,7,,
+Document Fields,Main switch,8,,
+Document Fields,Lamp switch,9,,
+Document Fields,Selector switch,10,,
+Document Fields,Forward/reverse switch,11,,
+Document Fields,Pilot lamp,12,,
+Document Fields,Feed disengagement push button,13,,
+Document Fields,Start push button,14,,
+Document Fields,Emergency stop,15,,
+Document Fields,Elevating handle,16,,
+Document Fields,Clamping handle,17,,
+Document Fields,Supply inlet,18,,
+Parts List / Component Legend,,,Speed change lever,1
+Parts List / Component Legend,,,Depth adjusting knob,2
+Parts List / Component Legend,,,Mech. feed engagement lever,3
+Parts List / Component Legend,,,Hand feed lever,4
+Parts List / Component Legend,,,Feed change knob,5
+Parts List / Component Legend,,,Switch for tapping,6
+Parts List / Component Legend,,,Gear shifting lever,7
+Parts List / Component Legend,,,Main switch,8
+Parts List / Component Legend,,,Lamp switch,9
+Parts List / Component Legend,,,Selector switch,10
+Parts List / Component Legend,,,Forward/reverse switch,11
+Parts List / Component Legend,,,Pilot lamp,12
+Parts List / Component Legend,,,Feed disengagement push button,13
+Parts List / Component Legend,,,Start push button,14
+Parts List / Component Legend,,,Emergency stop,15
+Parts List / Component Legend,,,Elevating handle,16
+Parts List / Component Legend,,,Clamping handle,17
+Parts List / Component Legend,,,Supply inlet,18
+Notes & Annotations,Note,Assembly drawing for instruction manuals,,
+Notes & Annotations,Note,Machine brand labeled as BHARATH on the machine head,,
+Notes & Annotations,Note,Fig. 1.5 shows two views of a drilling/tapping machine assembly,,
+Notes & Annotations,Note,Left view and right view of the same machine are shown side by side,,

@@ -1,0 +1,69 @@
+﻿Section,Field,Value,Col_Field,Col_Value
+Document Fields,Title,Centrifugal Pump Housing,,
+Document Fields,Date,24/02/2015,,
+Document Fields,Competition,,,
+Document Fields,Material,"Steel, Mild",,
+Document Fields,Mass,0.954 kg,,
+Document Fields,Sheet Size,A3,,
+Document Fields,Sheet Number,3 of 13,,
+Document Fields,Country,Scotland/UK,,
+Document Fields,Scale,Scale to ISO 5455,,
+Document Fields,Drawing Category,Mechanical Engineering: CAD Regional Competition,,
+Document Fields,Tolerances,Tolerances unless otherwise stated to ISO 2768 mk,,
+Document Fields,Casting Tolerances,Casting tolerances to ISO 8062,,
+Document Fields,Dimensions Unit,All dimensions in mm,,
+Title Block,,,Competition,
+Title Block,,,Title,Centrifugal Pump Housing
+Title Block,,,Date,24/02/2015
+Title Block,,,Material,"Steel, Mild"
+Title Block,,,Mass,0.954 kg
+Title Block,,,Sheet Size,A3
+Title Block,,,Sheet Number,3 of 13
+Title Block,,,Country,Scotland/UK
+Title Block,,,Scale,Scale to ISO 5455
+Title Block,,,Category,Mechanical Engineering: CAD Regional Competition
+Title Block,,,Tolerances,Tolerances unless otherwise stated to ISO 2768 mk
+Title Block,,,Casting Tolerances,Casting tolerances to ISO 8062
+Title Block,,,Dimensions,All dimensions in mm
+Notes & Annotations,Note,Ø6.75 ▽20.54,,
+Notes & Annotations,Note,M8x1.25 - 6H ▽16.00,,
+Notes & Annotations,Note,∨ Ø8.00 X 90.0°,,
+Notes & Annotations,Note,M20x2.5 - 6H,,
+Notes & Annotations,Note,Ø70.00,,
+Notes & Annotations,Note,SECTION E-E,,
+Notes & Annotations,Note,Ø95.00,,
+Notes & Annotations,Note,(47.50),,
+Notes & Annotations,Note,6X Ø5.00 ▽16.00,,
+Notes & Annotations,Note,M6x1 - 6H ▽12.00,,
+Notes & Annotations,Note,EQUISPACED ON 80.00 PCD,,
+Notes & Annotations,Note,4X 2.00 X 45.0°,,
+Notes & Annotations,Note,2X Ø5.00 ▽10.00,,
+Notes & Annotations,Note,M6x1 - 6H,,
+Notes & Annotations,Note,R1.00 TYP.,,
+Notes & Annotations,Note,DETAIL F,,
+Notes & Annotations,Note,R4.00,,
+Notes & Annotations,Note,Ø28.00,,
+Notes & Annotations,Note,0.50 X 45.0°,,
+Notes & Annotations,Note,0.50 X 45.0° ALL ROUND,,
+Notes & Annotations,Note,Dimension: 19.00,,
+Notes & Annotations,Note,Dimension: 38.00,,
+Notes & Annotations,Note,Dimension: 0.50,,
+Notes & Annotations,Note,Dimension: 59.50,,
+Notes & Annotations,Note,Dimension: 10.00,,
+Notes & Annotations,Note,Dimension: 33.00,,
+Notes & Annotations,Note,Dimension: 66.00,,
+Notes & Annotations,Note,Dimension: 42.00,,
+Notes & Annotations,Note,Dimension: 42.00,,
+Notes & Annotations,Note,Dimension: 8.00,,
+Notes & Annotations,Note,Dimension: 8.00,,
+Notes & Annotations,Note,Dimension: 11.00 (bottom right),,
+Notes & Annotations,Note,Dimension: 11.00 (top view),,
+Notes & Annotations,Note,Dimension: 7.00,,
+Notes & Annotations,Note,Dimension: 22.00,,
+Notes & Annotations,Note,Dimension: 18.00,,
+Notes & Annotations,Note,Dimension: 6.00,,
+Notes & Annotations,Note,Dimension: 2.70,,
+Notes & Annotations,Note,Dimension: 4.40,,
+Notes & Annotations,Note,Dimension: 3.00,,
+Notes & Annotations,Note,Dimension: 6.20,,
+Notes & Annotations,Note,Dimension: 22.00 (detail F),,

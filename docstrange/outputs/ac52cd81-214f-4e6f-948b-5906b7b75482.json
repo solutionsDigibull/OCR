@@ -1,0 +1,116 @@
+{
+  "key_value_pairs": {
+    "Figure Number": "19.2",
+    "Figure Title": "Marine engine connecting rod end",
+    "Page Number": "358",
+    "Chapter/Section": "Machine Drawing",
+    "Overall Width Dimension": "270",
+    "Left Flange Width": "15",
+    "Rod Diameter 1": "φ40",
+    "Rod Diameter 2": "φ80",
+    "Outer Flange Diameter": "φ190",
+    "Inner Bore Diameter 1": "φ48",
+    "Inner Bore Diameter 2": "φ48",
+    "Right Side Diameter": "φ72",
+    "Radius 1": "R56",
+    "Radius 2": "R56",
+    "Radius 3": "R76",
+    "Right View Radius 1": "R142",
+    "Right View Radius 2": "R130",
+    "Thread Size": "M10",
+    "Dimension A": "36",
+    "Dimension B": "36",
+    "Dimension C": "50",
+    "Dimension D": "52",
+    "Dimension E": "52",
+    "Dimension F": "50",
+    "Dimension G": "36",
+    "Dimension H": "16",
+    "Dimension I": "12",
+    "Dimension J": "10",
+    "Dimension K": "12",
+    "Dimension L": "16",
+    "Dimension M": "46",
+    "Dimension N": "12",
+    "Dimension O": "8",
+    "Bottom View Overall Length": "162",
+    "Bottom View Dimension 1": "80",
+    "Bottom View Dimension 2": "80",
+    "Bottom View Dimension 3": "10",
+    "Bottom View Dimension 4": "18",
+    "Bottom View Height 1": "70",
+    "Bottom View Height 2": "90",
+    "Bottom View Height 3": "118",
+    "Groove Dimension": "9"
+  },
+  "tables": [
+    {
+      "title": "Parts list",
+      "headers": [
+        "Part No.",
+        "Name",
+        "Matl.",
+        "Qty."
+      ],
+      "rows": [
+        [
+          "1",
+          "Rod end",
+          "FS",
+          "1"
+        ],
+        [
+          "2",
+          "Cover end",
+          "FS",
+          "1"
+        ],
+        [
+          "3",
+          "Bearing brass",
+          "GM",
+          "2"
+        ],
+        [
+          "4",
+          "Bolt M54 × 360",
+          "MS",
+          "2"
+        ],
+        [
+          "5",
+          "Nut, M54",
+          "MCS",
+          "2"
+        ],
+        [
+          "6",
+          "Cotter",
+          "MCS",
+          "2"
+        ],
+        [
+          "7",
+          "Snug",
+          "MS",
+          "2"
+        ],
+        [
+          "8",
+          "Leather packing",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "Fig. 19.2 Marine engine connecting rod end",
+    "Page 358 - Machine Drawing",
+    "Part callout labels visible in drawing: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11",
+    "Bolt specification: M54 × 360",
+    "Nut specification: M54",
+    "Thread M10 visible on right side flange",
+    "Material codes: FS = Forged Steel, GM = Gun Metal, MS = Mild Steel, MCS = Medium Carbon Steel"
+  ]
+}

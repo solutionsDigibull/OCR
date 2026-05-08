@@ -1,0 +1,28 @@
+﻿Section,Field,Value,Col_Field,Col_Value
+Document Fields,Drawing Title,SYNTHETIC DRAWING 2: COMPONENT DETAIL – RADAR MOUNT BRACKET,,
+Document Fields,Part Name,RADAR MOUNT BRACKET,,
+Document Fields,Material,AL 6061-T6,,
+Document Fields,Finish,ANODIZE MIL-A-8625,,
+Document Fields,Revision,A,,
+Document Fields,Overall Width (Front View),2.500 inches,,
+Document Fields,Overall Height (Front View),1.750 inches,,
+Document Fields,Upright Width (Front View),1.250 inches,,
+Document Fields,Through Hole Diameter (Front View),Ø0.375 THRU,,
+Document Fields,Side View Height,2.000 inches,,
+Document Fields,Side View Base Length,1.750 inches,,
+Document Fields,Material Thickness,.125 THK,,
+Document Fields,Top View Width,2.500 inches,,
+Document Fields,Top View Depth,1.000 inches,,
+Document Fields,Mounting Hole Spacing (Top View),1.500 inches,,
+Document Fields,Mounting Holes,4X Ø.190 +/- .005 HOLE THRU,,
+Title Block,,,MATERIAL,AL 6061-T6
+Title Block,,,FINISH,ANODIZE MIL-A-8625
+Title Block,,,PART NAME,RADAR MOUNT BRACKET
+Title Block,,,REV.,A
+Notes & Annotations,Note,ALL DIMENSIONS ARE IN INCHES.,,
+Notes & Annotations,Note,BREAK ALL SHARP EDGES .010-.020.,,
+Notes & Annotations,Note,"UNLESS OTHERWISE SPECIFIED: X.XX = ±.010, X.XXX = ±.005",,
+Notes & Annotations,Note,REMOVE ALL BURRS.,,
+Notes & Annotations,Note,4X Ø.190 +/- .005 HOLE THRU,,
+Notes & Annotations,Note,Ø0.375 THRU,,
+Notes & Annotations,Note,.125 THK,,
